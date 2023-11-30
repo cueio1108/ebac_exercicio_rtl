@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1696532835203" clover="3.2.0">
+  <project timestamp="1696532835203" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="14" coveredelements="14" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="index.tsx" path="C:\Curso TI\ebac_exercicio_rtl\src\components\PostComments\index.tsx">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="6" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
